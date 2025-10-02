@@ -1,0 +1,82 @@
+# =================================================================
+# Archivos y Carpetas de Compilación de Maven y Java
+# =================================================================
+
+# Documentación Autogenerada por Spring initializr
+HELP.md
+
+# Carpeta de salida principal de Maven
+target/
+
+# Archivos de la máquina virtual de Java (crash logs)
+hs_err_pid*
+
+# Archivos de paquete generados
+*.jar
+*.war
+*.ear
+
+# Archivos de backup de Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Excluir el wrapper de Maven, excepto los archivos de configuración
+.mvn/wrapper/maven-wrapper.jar
+
+# Log files
+*.log
+
+
+# =================================================================
+# Reglas Específicas de IDEs
+# =================================================================
+
+### STS / Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+
+# =================================================================
+# Archivos de Sistema Operativo
+# =================================================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+
+# =================================================================
+# Excepciones
+# =================================================================
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
