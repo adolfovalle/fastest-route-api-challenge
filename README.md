@@ -65,7 +65,6 @@ Esta es una implementación de una API REST utilizando Java y Spring Boot para c
 
 El archivo de rutas a cargar debe ser un CSV separado por punto y coma (;) con tres columnas. Se asume que la primera línea del archivo es una cabecera y será ignorada.
 
-...
 ### 1. Cargar Rutas (Upload)
 
 -   **Endpoint:** `POST /api/routes/upload`
