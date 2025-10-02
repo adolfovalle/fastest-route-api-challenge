@@ -30,7 +30,7 @@ Esta es una implementación de una API REST utilizando Java y Spring Boot para c
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL-DE-TU-REPO]
+    git clone https://github.com/adolfovalle/fastest-route-api-challenge
     cd fastest-route-api
     ```
 
